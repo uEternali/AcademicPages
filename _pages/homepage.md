@@ -48,7 +48,8 @@ My current research interests mainly include Machine Learning, Learnware and Eff
 ## Preprint
 - [Enabling Small Models for Zero-Shot Selection and Reuse through Model Label Learning](https://arxiv.org/abs/2408.11449)\\
   **Jia Zhang**, Zhi Zhou, Lan-Zhe Guo, Yu-Feng Li
-- []
+- [Beyond Single: A Data Selection Principle for LLM Alignment via Fine-Grained Preference Signals](https://arxiv.org/abs/2508.07638)\\
+  **Jia Zhang**, Yao Liu, Chen-Xi Zhang, Yi Liu, Yi-Xuan Jin, Lan-Zhe Guo, Yu-Feng Li
 
 # 🤝 Academic Services
 - Program Committee Member 
