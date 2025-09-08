@@ -80,4 +80,4 @@ My current research interests mainly include Machine Learning, Learnware and Eff
 - *2019.06 - 2023.06*, Undergraduate, School of Big Data and Software Engineering, Chongqing University
 
 # 💻 Internships
-- *2025.05 - 2025.10*, [Alibaba](https://github.com/), China.
+- *2025.05 - 2025.10*, Alibaba, China.
