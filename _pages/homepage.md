@@ -75,7 +75,7 @@ My current research interests mainly include Machine Learning, Learnware and Eff
 - *2020.10* CCPC, Silver Medal, Qinghuangdao
 
 # 📖 Educations
-- *2025.09 - Present*, Ph.D. candidate, School of Artificial Intelligence, Nanjing University
+- *2025.09 - Present*, Ph.D. student, School of Artificial Intelligence, Nanjing University
 - *2023.09 - 2025.06*, Master, School of Artificial Intelligence, Nanjing University
 - *2019.06 - 2023.06*, Undergraduate, School of Big Data and Software Engineering, Chongqing University
 
