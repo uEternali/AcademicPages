@@ -4,7 +4,16 @@
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
-        <img src= "{{ s.image }}" alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
+        {% comment %} 检查是否有链接，如果有就添加 <a> 标签 {% endcomment %}
+        {% if s.url %}<a href="{{ s.url }}" target="_blank" rel="noopener noreferrer">{% endif %}
+          
+          <div style="text-align: center;">
+            <img src="{{ s.image }}"
+                alt="{{ s.image_alt | default: '' }}"
+                style="width: auto; height: 70px; display: inline-block; vertical-align: middle; margin-bottom: 1em;">
+          </div>
+              
+        {% if s.url %}</a>{% endif %}
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}

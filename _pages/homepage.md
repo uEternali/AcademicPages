@@ -4,6 +4,13 @@ permalink: /homepage
 title: "Homepage"
 excerpt: ""
 author_profile: true
+sidebar:
+  - image: "images/lamda.jpg"
+    image_alt: "lamda"
+    url: "https://www.lamda.nju.edu.cn/"
+  - image: "images/nju.jpg"
+    image_alt: "nju"
+    url: "https://www.nju.edu.cn/"
 redirect_from: 
   - /home
 ---
@@ -17,7 +24,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently I am a second-year gragraduate student of School of Artificial Intelligence in Nanjing University advised by Professor [Yu-Feng Li](https://cs.nju.edu.cn/liyf/), and a member of [LAMDA Group](https://www.lamda.nju.edu.cn/MainPage.ashx), which is led by Professor [Zhi-Hua Zhou](http://www.lamda.nju.edu.cn/zhouzh/). I received my B.Sc. degree from School of Big Data and Software Engineering in Chongqing University. In September 2023, I was admitted to study for a master's degree at Nanjing University without an entrance examination.
+I am currently a first-year Ph.D. student of School of Artificial Intelligence in Nanjing University advised by Professor [Yu-Feng Li](https://cs.nju.edu.cn/liyf/), and a member of [LAMDA Group](https://www.lamda.nju.edu.cn/MainPage.ashx), which is led by Professor [Zhi-Hua Zhou](http://www.lamda.nju.edu.cn/zhouzh/). I received my B.Sc. degree from School of Big Data and Software Engineering in Chongqing University. In September 2025, I was admitted to pursue for a Ph.D. degree in Nanjing University without entrance examination.
 
 My long-term goal is to build practical and robust AI systems in the real world.
 
